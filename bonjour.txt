@@ -2,11 +2,11 @@
 <html lang="fr">
 <head>
 	<meta charset="UTF-8">
-	<title>CoursGithub</title>
+	<title>Cours GitHub from Valentin Coppin</title>
 </head>
 <body>
-	<p>
-	Bonjour,
+
+	Bonjour
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
